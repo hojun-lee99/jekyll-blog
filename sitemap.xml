@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://hojun-lee99.github.io/jekyll-blog/github-profile-sync-and-contribution-graph/</loc>
+<lastmod>2026-03-28T09:00:00+09:00</lastmod>
+</url>
+<url>
+<loc>https://hojun-lee99.github.io/jekyll-blog/deploying-with-github-pages-and-jenkins/</loc>
+<lastmod>2026-03-29T09:00:00+09:00</lastmod>
+</url>
+<url>
+<loc>https://hojun-lee99.github.io/jekyll-blog/writing-posts-series-and-thumbnails/</loc>
+<lastmod>2026-03-30T09:00:00+09:00</lastmod>
+</url>
+<url>
+<loc>https://hojun-lee99.github.io/jekyll-blog/customizing-profile-navigation-and-home/</loc>
+<lastmod>2026-03-31T09:00:00+09:00</lastmod>
+</url>
+<url>
+<loc>https://hojun-lee99.github.io/jekyll-blog/installing-the-theme-locally/</loc>
+<lastmod>2026-04-01T09:00:00+09:00</lastmod>
+</url>
+<url>
+<loc>https://hojun-lee99.github.io/jekyll-blog/introducing-velog-style-jekyll-theme/</loc>
+<lastmod>2026-04-02T09:00:00+09:00</lastmod>
+</url>
+<url>
+<loc>https://hojun-lee99.github.io/jekyll-blog/about/</loc>
+</url>
+<url>
+<loc>https://hojun-lee99.github.io/jekyll-blog/</loc>
+</url>
+<url>
+<loc>https://hojun-lee99.github.io/jekyll-blog/series/</loc>
+</url>
+</urlset>
