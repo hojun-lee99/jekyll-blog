@@ -1,5 +1,5 @@
 title: hojun-lee99 blog
-description: velog 감성의 개발 블로그를 GitHub Pages와 Jekyll로 구성한 오픈소스 starter theme
+description: 개발 공부 관련 내용들을 정리해둔 블로그입니다.
 url: 'https://hojun-lee99.github.io'
 baseurl: '/jekyll-blog'
 lang: ko-KR
